@@ -31,5 +31,5 @@ The learn more tab will give you buttons for learning more about: <br>
 The music runs in an infinite loop</p>
 
 **MUSIC USED:**
-<br> [TETRIS] (https://www.youtube.com/watch?v=NmCCQxVBfyM)
-<br> [SPACE MUSIC] (https://www.youtube.com/watch?v=aNwfxaD2us8)
+<br> [[TETRIS]](https://www.youtube.com/watch?v=NmCCQxVBfyM)
+<br> [[SPACE MUSIC]](https://www.youtube.com/watch?v=aNwfxaD2us8)
