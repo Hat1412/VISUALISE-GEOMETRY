@@ -20,7 +20,7 @@ Area = (l2 n)/[4 tan (180/n)]
 
 **LEARN MORE:**
 The learn more tab will give you buttons for learning more about: <br>
- <a href = https://www.youtube.com/watch?v=yQSEXcf6s2I&t=9s > [TKINTER] </a> <br>
+[TKINTER](https://www.youtube.com/watch?v=yQSEXcf6s2I&t=9s/) <br>
  <a href = https://www.techwithtim.net/tutorials/python-module-walk-throughs/ > [Turtle] </a> <br>
  <a href = https://www.instructables.com/ART-WITH-PYTHON/> [An Instructable about Turtle] </a> <br>
  
