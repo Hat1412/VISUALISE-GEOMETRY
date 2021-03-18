@@ -24,11 +24,11 @@ The learn more tab will give you buttons for learning more about: <br>
  <a href = https://www.techwithtim.net/tutorials/python-module-walk-throughs/ > [Turtle] </a> <br>
  <a href = https://www.instructables.com/ART-WITH-PYTHON/> [An Instructable about Turtle] </a> <br>
  
-**Watch turtle live** <br> runs prewritten programs which create mesmerising patterns using the turtle module<br>
+**Watch turtle live** <br> runs prewritten programs which create mesmerising patterns using the turtle module.<br>
 
 **Constellations:** <br>
 <p>The constellations are drawn as the turtle moves to predefined coordinates on screen to draw the constellations.
-The music runs in an infinite loop</p>
+The music runs in an infinite loop.</p>
 
 **MUSIC USED:**
 <br> [[TETRIS]](https://www.youtube.com/watch?v=NmCCQxVBfyM)
