@@ -3,10 +3,7 @@
 Geometry is the study if earth measurements shapes patterns etc This program will help a person to visually understand the wonders of geometry 
 This program is made by **Hat1412 from Team Singularity** for the **Timathon** hosted by <a href = https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg> [Tech with Tim]</a>
 
-Do download this zip and run the main_screen.py file you will not regret it for best experience use earphones and just go along,
-<br>
-_**EXPLORE THE REALM OF GEOMETRY**_ 
-<br>
+Do download this zip and run the main_screen.py file you will not regret it For best experience use earphones
 **HOW TO USE**: <br>
 Download the zip file and make sure all files are in the same folder and run the main_screen.py file
 
