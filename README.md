@@ -20,7 +20,7 @@ Area = (l2 n)/[4 tan (180/n)]
 
 **LEARN MORE:**
 The learn more tab will give you buttons for learning more about: <br>
-[[tkinter]](https://www.youtube.com/watch?v=yQSEXcf6s2I&t=9s/) <br>
+[[Tkinter]](https://www.youtube.com/watch?v=yQSEXcf6s2I&t=9s/) <br>
  <a href = https://www.techwithtim.net/tutorials/python-module-walk-throughs/ > [Turtle] </a> <br>
  <a href = https://www.instructables.com/ART-WITH-PYTHON/> [An Instructable about Turtle] </a> <br>
  
@@ -29,3 +29,7 @@ The learn more tab will give you buttons for learning more about: <br>
 **Constellations:** <br>
 <p>The constellations are drawn as the turtle moves to predefined coordinates on screen to draw the constellations.
 The music runs in an infinite loop</p>
+
+**MUSIC USED:**
+<br> [TETRIS] (https://www.youtube.com/watch?v=NmCCQxVBfyM)
+<br> [SPACE MUSIC] (https://www.youtube.com/watch?v=aNwfxaD2us8)
