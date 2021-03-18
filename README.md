@@ -1,11 +1,11 @@
-# VISUALISE-GEOMETRY
+# VISUALIZE-GEOMETRY
 
-Geometry is the study if earth measurements shapes patterns etc This program will help a person to visually understand the wonders of geometry 
+Geometry is the study of earth measurements,shapes and patterns etc. This program will help a person to visually understand the wonders of geometry.
 This program is made by **Hat1412 from Team Singularity** for the **Timathon** hosted by <a href = https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg> [Tech with Tim]</a>
 
-Do download this zip and run the main_screen.py file you will not regret it For best experience use earphones
+Do download this zip and run the main_screen.py file, you will not regret it. For best experience use earphones
 <br> **HOW TO USE**: <br>
-Download the zip file and make sure all files are in the same folder and run the main_screen.py file
+Download the zip file and extract all files into the same folder and run the main_screen.py file
 
 **UNDERESTAND THE WORKING OF THE PROGRAM: <br>
 Drawing Board:** <br>
@@ -14,7 +14,7 @@ The plus and minus buttons increases/decreases the width of the brush.
 Drawings can only be saved as eps files, Don’t add any extensions when saving.
 
 **POLYGONS:** <br>
-Just enter the length of each side with the number if sides and see turtle draw the shape and also give the perimeter and area 
+Just enter the length of each side with the number of sides and see turtle draw the shape and also give the perimeter and area.
 Perimeter = n*l [n = Number of sides, l = Length of sides]
 Area = (l2 n)/[4 tan (180/n)]
 
