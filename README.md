@@ -14,7 +14,7 @@ The plus and minus buttons increases/decreases the width of the brush.
 Drawings can only be saved as eps files, Don’t add any extensions when saving.
 
 **POLYGONS:** <br>
-Just enter the length of each side with the number of sides and see turtle draw the shape and also give the perimeter and area.
+Just enter the length of each side with the number of sides and see turtle draw the shape and also give the perimeter and area. <br>
 Perimeter = n*l [n = Number of sides, l = Length of sides] <br>
 Area = (l2 n)/[4 tan (180/n)] <br>
 
